@@ -1,0 +1,1 @@
+No se podia hacer el commit porque para github, crear una carpeta vacía no se reconoce como un cambio por lo que se necesita que haya un elemento dentro de esta para que poder hacer el commit.
