@@ -1,1 +1,4 @@
+No se podia hacer el commit porque para github, crear una carpeta vacía no se reconoce como un cambio por lo que se necesita que haya un elemento dentro de esta para que poder hacer el commit.
 Carlos Daniel Urresty Ascuntar, 21 años, aspiro a crear programas de forma independiente y eficiente cuando termine este curso.
+
+Es importante tener cuidado al momento de trabajar en dos archivos a la vez porque podriamos crear conflictos entre un repositorio local y un repositorio remoto al momento de hacer un push a una rama.
